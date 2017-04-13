@@ -38,12 +38,12 @@
             this.tnrAppTimer.Interval = 10;
             this.tnrAppTimer.Tick += new System.EventHandler(this.tnrAppTimer_Tick);
             // 
-            // Form1
+            // Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(595, 589);
-            this.Name = "Form1";
+            this.ClientSize = new System.Drawing.Size(802, 803);
+            this.Name = "Form";
             this.Text = "PIMonteCarlo";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
