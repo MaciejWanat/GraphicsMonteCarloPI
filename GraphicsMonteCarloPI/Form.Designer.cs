@@ -45,7 +45,7 @@
             this.ClientSize = new System.Drawing.Size(802, 803);
             this.Name = "Form";
             this.Text = "PIMonteCarlo";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.Form_Load);
             this.ResumeLayout(false);
 
         }
