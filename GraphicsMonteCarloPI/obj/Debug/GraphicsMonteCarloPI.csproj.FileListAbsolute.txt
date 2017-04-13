@@ -1,0 +1,9 @@
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\bin\Debug\GraphicsMonteCarloPI.exe.config
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\bin\Debug\GraphicsMonteCarloPI.exe
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\bin\Debug\GraphicsMonteCarloPI.pdb
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\obj\Debug\GraphicsMonteCarloPI.csprojResolveAssemblyReference.cache
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\obj\Debug\GraphicsMonteCarloPI.Properties.Resources.resources
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\obj\Debug\GraphicsMonteCarloPI.csproj.GenerateResource.Cache
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\obj\Debug\GraphicsMonteCarloPI.exe
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\obj\Debug\GraphicsMonteCarloPI.pdb
+D:\Studia\Programowanie i konkrety\Fizyka\GraphicsMonteCarloPI\GraphicsMonteCarloPI\obj\Debug\GraphicsMonteCarloPI.Form.resources
